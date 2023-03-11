@@ -48,4 +48,4 @@ async def valorant(ctx):
     await ctx.send(message)
 
 
-client.run('OTA0MzQxNTEzMTQ2ODcxODM5.GgR3Z6.jPKEhG_HL6hxOwLJyqMOny5nqgJUr9ti2Vt-60')
+client.run('DISCORD TOKEN')
